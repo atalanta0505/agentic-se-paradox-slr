@@ -1,0 +1,10 @@
+{
+  "bundle_id": "M01_agentic_se_slr_20261111",
+  "prisma_arithmetic_closure": "PASSED (6,121 -> 4,205 -> 1,810 -> 193 [155 peer-reviewed + 38 moderated preprints])",
+  "search_window_hygiene": "PASSED (100% within 2022-11-01 to 2026-10-31; 25/25 non-circular seed recall)",
+  "intra_rater_blind_audit": "PASSED (n = 20 blind Stage 3 check: 20/20 inclusion & primary_rq, 19/20 multi-label rqs)",
+  "verbatim_evidence_ledger": "PASSED (38/38 headline metrics verified by contiguous abstract substring & numeric-token checks)",
+  "citation_completeness": "PASSED (213/213 BibTeX entries cited in main.tex; 0 undefined citations or references)",
+  "ascii_and_latex_hygiene": "PASSED (100% 7-bit ASCII in main.tex, main.bbl, and references.bib; 0 LaTeX font/float warnings)",
+  "verified_at_utc": "2026-11-25T04:16:36.825611+00:00"
+}

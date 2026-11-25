@@ -1,0 +1,1780 @@
+\begin{thebibliography}{100}
+
+\bibitem{chen2021evaluating}
+Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique~Ponde
+  de~Oliveira~Pinto, Jared Kaplan, Harri Edwards, Yuri Burda, Nicholas Joseph,
+  Greg Brockman, Alex Ray, Raul Puri, Gretchen Krueger, Michael Petrov, Heidy
+  Khlaaf, Girish Sastry, Pamela Mishkin, Brooke Chan, Scott Gray, Nick Ryder,
+  Mikhail Pavlov, Alethea Power, Lukasz Kaiser, Mohammad Bavarian, Clemens
+  Winter, Philippe Tillet, Felipe~Petroski Such, Dave Cummings, Matthias
+  Plappert, Fotios Chantzis, Elizabeth Barnes, Ariel Herbert-Voss,
+  William~Hebgen Guss, Alex Nichol, Alex Paino, Nikolas Tezak, Jie Tang, Igor
+  Babuschkin, Suchir Balaji, Shantanu Jain, William Saunders, Christopher
+  Hesse, Andrew~N. Carr, Jan Leike, Josh Achiam, Vedant Misra, Evan Morikawa,
+  Alec Radford, Matthew Knight, Miles Brundage, Mira Murati, Katie Mayer, Peter
+  Welinder, Bob McGrew, Dario Amodei, Sam McCandlish, Ilya Sutskever, and
+  Wojciech Zaremba.
+\newblock {Evaluating Large Language Models Trained on Code}.
+\newblock arXiv, 2021.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2107.03374}.
+
+\bibitem{vaithilingam2022expectation}
+Priyan Vaithilingam, Tianyi Zhang, and Elena~Leah Glassman.
+\newblock {Expectation vs. Experience: Evaluating the Usability of Code
+  Generation Tools Powered by Large Language Models}.
+\newblock In {\em CHI Conference Extended Abstracts on Human Factors in
+  Computing Systems (CHI EA)}, 2022.
+\newblock DOI: \url{https://doi.org/10.1145/3491101.3519665}.
+
+\bibitem{dakhel2023github}
+Arghavan~Moradi Dakhel, Vahid Majdinasab, Amin Nikanjam, Foutse Khomh,
+  Michel~C. Desmarais, and Zhen~Ming Jiang.
+\newblock {GitHub Copilot AI pair programmer: Asset or Liability?}
+\newblock {\em Journal of Systems and Software}, 2023.
+\newblock DOI: \url{https://doi.org/10.1016/j.jss.2023.111734}.
+
+\bibitem{ziegler2024measuring}
+Albert Ziegler, Eirini Kalliamvakou, X.~Alice Li, Andrew Rice, Devon Rifkin,
+  Shawn Simister, Ganesh Sittampalam, and Edward~E. Aftandilian.
+\newblock {Measuring GitHub Copilot's Impact on Productivity}.
+\newblock {\em Communications of the ACM}, 2024.
+\newblock DOI: \url{https://doi.org/10.1145/3633453}.
+
+\bibitem{peng2023impact}
+Sida Peng, Eirini Kalliamvakou, Peter Cihon, and Mert Demirer.
+\newblock {The Impact of AI on Developer Productivity: Evidence from GitHub
+  Copilot}.
+\newblock arXiv, 2023.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2302.06590}.
+
+\bibitem{cui2026effects}
+Kevin~Zheyuan Cui, Mert Demirer, Sonia Jaffe, Leon Musolff, Sida Peng, and
+  Tobias Salz.
+\newblock {The Effects of Generative AI on High-Skilled Work: Evidence from
+  Three Field Experiments with Software Developers}.
+\newblock {\em Management Science}, 2026.
+\newblock DOI: \url{https://doi.org/10.1287/mnsc.2025.00535}.
+
+\bibitem{jimenez2024swebench}
+Carlos~E. Jimenez, John Yang, Alexander Wettig, Shun-Yu Yao, Ke-Xin Pei, Ofir
+  Press, and Karthik~R. Narasimhan.
+\newblock {SWE-bench: Can Language Models Resolve Real-World GitHub Issues?}
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2024.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2310.06770}.
+
+\bibitem{yang2024sweagent}
+John Yang, Carlos~E. Jimenez, Alexander Wettig, Kilian Lieret, Shunyu Yao,
+  Karthik Narasimhan, and Ofir Press.
+\newblock {SWE-agent: Agent-Computer Interfaces Enable Automated Software
+  Engineering}.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2024.
+\newblock DOI: \url{https://doi.org/10.52202/079017-1601}.
+
+\bibitem{wang2025openhands}
+Xingyao Wang, Boxuan Li, Yufan Song, Frank~F. Xu, Xiangru Tang, Mingchen Zhuge,
+  Jiayi Pan, Yueqi Song, Bowen Li, Jaskirat Singh, Hoang~H. Tran, Fuqiang Li,
+  Ren Ma, Mingzhang Zheng, Bill Qian, Yanjun Shao, Niklas Muennighoff, Yizhe
+  Zhang, Binyuan Hui, Junyang Lin, Robert Brennan, Hao Peng, Heng Ji, and
+  Graham Neubig.
+\newblock {OpenHands: An Open Platform for AI Software Developers as Generalist
+  Agents}.
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2407.16741}.
+
+\bibitem{li2026aidev}
+Hao Li, Haoxiang Zhang, and Ahmed~E. Hassan.
+\newblock {AIDev: Studying AI Coding Agents on GitHub}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3797249}.
+
+\bibitem{yao2023react}
+Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan,
+  and Yuan Cao.
+\newblock {ReAct: Synergizing Reasoning and Acting in Language Models}.
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2023.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2210.03629}.
+
+\bibitem{schick2023toolformer}
+Timo Schick, Jane Dwivedi-Yu, Roberto Dess{\`i}, Roberta Raileanu, Maria
+  Lomeli, Luke Zettlemoyer, Nicola Cancedda, and Thomas Scialom.
+\newblock {Toolformer: Language Models Can Teach Themselves to Use Tools}.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2023.
+\newblock DOI: \url{https://doi.org/10.52202/075280-2997}.
+
+\bibitem{shinn2023reflexion}
+Noah Shinn, Federico Cassano, Edward Berman, Ashwin Gopinath, Karthik
+  Narasimhan, and Shunyu Yao.
+\newblock {Reflexion: Language Agents with Verbal Reinforcement Learning}.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2023.
+\newblock DOI: \url{https://doi.org/10.52202/075280-0377}.
+
+\bibitem{lemieux2023codamosa}
+Caroline Lemieux, Jeevana~Priya Inala, Shuvendu~K. Lahiri, and Siddhartha Sen.
+\newblock {CodaMosa: Escaping Coverage Plateaus in Test Generation with
+  Pre-trained Large Language Models}.
+\newblock In {\em IEEE/ACM International Conference on Software Engineering
+  (ICSE)}, 2023.
+\newblock DOI: \url{https://doi.org/10.1109/icse48619.2023.00085}.
+
+\bibitem{xia2024demystifying}
+Chunqiu~Steven Xia, Yinlin Deng, Soren Dunn, and Lingming Zhang.
+\newblock {Demystifying LLM-Based Software Engineering Agents}.
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2024.
+\newblock Online release 2024; PACMSE / FSE 2025 archival volume. DOI:
+  \url{https://doi.org/10.1145/3715754}.
+
+\bibitem{hong2024metagpt}
+Sirui Hong, Mingchen Zhuge, Jiaqi Chen, Xiawu Zheng, Yuheng Cheng, Ceyao Zhang,
+  Jinlin Wang, Zili Wang, Steven Ka~Shing Yau, Zijuan Lin, Liyang Zhou, Chenyu
+  Ran, Lingfeng Xiao, Chenglin Wu, and J{\"u}rgen Schmidhuber.
+\newblock {MetaGPT: Meta Programming for A Multi-Agent Collaborative
+  Framework}.
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2024.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2308.00352}.
+
+\bibitem{qian2024chatdev}
+Chen Qian, Wei Liu, Hongzhang Liu, Nuo Chen, Yufan Dang, Jiahao Li, Cheng Yang,
+  Weize Chen, Yusheng Su, Xin Cong, Juyuan Xu, Dahai Li, Zhiyuan Liu, and
+  Maosong Sun.
+\newblock {ChatDev: Communicative Agents for Software Development}.
+\newblock In {\em Annual Meeting of the Association for Computational
+  Linguistics (ACL)}, 2024.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2024.acl-long.810}.
+
+\bibitem{yu2025utboost}
+Bin Yu, Yuxuan Zhu, Pinjia He, and Daniel~D. Kang.
+\newblock {UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench}.
+\newblock In {\em Annual Meeting of the Association for Computational
+  Linguistics (ACL)}, 2025.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2025.acl-long.189}.
+
+\bibitem{wang2025solved}
+You Wang, Michael Pradel, and Zhong-Xin Liu.
+\newblock {Are "Solved Issues" in SWE-bench Really Solved Correctly? An
+  Empirical Study}.
+\newblock In {\em IEEE/ACM International Conference on Software Engineering
+  (ICSE)}, 2025.
+\newblock Online release 2025; ICSE 2026 archival proceedings. DOI:
+  \url{https://doi.org/10.1145/3744916.3764576}.
+
+\bibitem{rondon2025evaluating}
+Pat Rondon, Renyao Wei, Jos{\'e} Cambronero, J{\"u}rgen Cito, Aaron Sun,
+  Siddhant Sanyam, Michele Tufano, and Satish Chandra.
+\newblock {Evaluating Agent-Based Program Repair at Google}.
+\newblock In {\em IEEE/ACM International Conference on Software Engineering
+  (ICSE)}, 2025.
+\newblock DOI: \url{https://doi.org/10.1109/icse-seip66354.2025.00038}.
+
+\bibitem{watanabe2025use}
+Miku Watanabe, Hao Li, Yutaro Kashiwa, Brittany Reid, Hajimu Iida, and Ahmed~E.
+  Hassan.
+\newblock {On the Use of Agentic Coding: An Empirical Study of Pull Requests on
+  GitHub}.
+\newblock {\em ACM Transactions on Software Engineering and Methodology
+  (TOSEM)}, 2025.
+\newblock Online release 2025; ACM TOSEM archival volume published 2026. DOI:
+  \url{https://doi.org/10.1145/3798166}.
+
+\bibitem{becker2025measuring}
+Joel Becker, Nate Rush, Elizabeth Barnes, and David Rein.
+\newblock {Measuring the Impact of Early-2025 AI on Experienced Open-Source
+  Developer Productivity}.
+\newblock arXiv Preprint, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2507.09089}.
+
+\bibitem{adams2026automating}
+Chris Adams, Arjun~Singh Banga, Parveen Bansal, Souvik Bhattacharya, Rujin Cao,
+  Pedro Canahuati, Nate Cook, Brian Ellis, Prabhakar Goyal, Gurinder Grewal,
+  Tianyu He, Matt Labunka, Alex Manners, David Molnar, Ging~Cee Ng, Vishal
+  Parekh, Jiefu Pei, Frederic Sagnes, James Saindon, Will Shackleton, Sid
+  Sidhu, Gursharan Singh, Karthik~Chengayan Sridhar, Matt Steiner, Pratibha
+  Udmalpet, Sean Xia, Stacey Yan, Audris Mockus, Peter~C. Rigby, and Nachiappan
+  Nagappan.
+\newblock {Automating Low-Risk Code Review at Meta: RADAR, Risk Calibration,
+  and Review Efficiency}.
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832783.3834493}.
+
+\bibitem{gong2026analyzing}
+Jingzhi Gong, Giovanni Pinna, Yixin Bian, and Jie~M. Zhang.
+\newblock {Analyzing Message-Code Inconsistency in AI Coding Agent-Authored
+  Pull Requests}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793583}.
+
+\bibitem{oukhay2026code}
+Issam Oukhay, Mahi Begoug, Moataz Chouchen, and Ali Ouni.
+\newblock {When AI Code Doesn't Stick: An Empirical Study on Reverted Changes
+  Introduced by AI Coding Agents}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793587}.
+
+\bibitem{chowdhury2026industry}
+Kowshik Chowdhury, Dipayan Banik, K.~M. Ferdous, and Shazibul~Islam Shamim.
+\newblock {From Industry Claims to Empirical Reality: An Empirical Study of
+  Code Review Agents in Pull Requests}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793614}.
+
+\bibitem{arora2026specifying}
+Chetan Arora, Andreas Vogelsang, and Abbi Sharma.
+\newblock {Specifying the Delegated-Autonomy Boundary: Requirements Engineering
+  for Agentic AI}.
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832783.3834551}.
+
+\bibitem{ehsani2026where}
+Ramtin Ehsani, Sakshi Pathak, Shriya Rawal, Abdullah~Al Mujahid, Mia~Mohammad
+  Imran, and Preetha Chatterjee.
+\newblock {Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic
+  Pull Requests in GitHub}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793579}.
+
+\bibitem{milanese2026humanagent}
+Roberto Milanese, Francesco Salzano, Angelica Spina, Antonio Vitale, Remo
+  Pareschi, Fausto Fasano, and Mattia Fazzini.
+\newblock {Human-Agent versus Human Pull Requests: A Testing-Focused
+  Characterization and Comparison}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793617}.
+
+\bibitem{aleithan2026swebench}
+Reem Aleithan, Haoran Xue, Mohammad~Mahdi Mohajer, Elijah Nnorom, Gias Uddin,
+  and Song Wang.
+\newblock {SWE-Bench+: Enhanced Coding Benchmark for LLMs}.
+\newblock {\em Proceedings of the ACM International Conference on AI-Powered
+  Software (AIware)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3805760.3814924}.
+
+\bibitem{fan2023large}
+Angela Fan, Beliz~U. Gokkaya, Mark Harman, Mitya Lyubarskiy, Shubho Sengupta,
+  Shin Yoo, and Jie~M. Zhang.
+\newblock {Large Language Models for Software Engineering: Survey and Open
+  Problems}.
+\newblock In {\em IEEE/ACM International Conference on Software Engineering:
+  Future of Software Engineering (ICSE-FoSE)}, 2023.
+\newblock DOI: \url{https://doi.org/10.1109/icse-fose59343.2023.00008}.
+
+\bibitem{hou2024large}
+Xinyi Hou, Yanjie Zhao, Yue Liu, Zhou Yang, Kailong Wang, Li~Li, Xiapu Luo,
+  David Lo, John Grundy, and Haoyu Wang.
+\newblock {Large Language Models for Software Engineering: A Systematic
+  Literature Review}.
+\newblock {\em ACM Transactions on Software Engineering and Methodology}, 2024.
+\newblock DOI: \url{https://doi.org/10.1145/3695988}.
+
+\bibitem{xi2023rise}
+Zhiheng Xi, Wenxiang Chen, Xin Guo, Wei He, Yiwen Ding, Boyang Hong, Ming
+  Zhang, Junzhe Wang, Senjie Jin, Enyu Zhou, Rui Zheng, Xiaoran Fan, Xiao Wang,
+  Limao Xiong, Yuhao Zhou, Weiran Wang, Changhao Jiang, Yicheng Zou, Xiangyang
+  Liu, Zhangyue Yin, Shihan Dou, Rongxiang Weng, Wensen Cheng, Qi~Zhang,
+  Wenjuan Qin, Yongyan Zheng, Xipeng Qiu, Xuanjing Huang, and Tao Gui.
+\newblock {The Rise and Potential of Large Language Model Based Agents: A
+  Survey}.
+\newblock arXiv, 2023.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2309.07864}.
+
+\bibitem{wang2024survey}
+Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan
+  Chen, Jiakai Tang, Xu~Chen, Yankai Lin, Wayne~Xin Zhao, Zhewei Wei, and
+  Ji-Rong Wen.
+\newblock {A survey on large language model based autonomous agents}.
+\newblock {\em Frontiers of Computer Science}, 2024.
+\newblock DOI: \url{https://doi.org/10.1007/s11704-024-40231-1}.
+
+\bibitem{amdahl1967validity}
+Gene~M. Amdahl.
+\newblock {Validity of the single processor approach to achieving large scale
+  computing capabilities}.
+\newblock In {\em AFIPS Spring Joint Computer Conference (SJCC)}, 1967.
+\newblock DOI: \url{https://doi.org/10.1145/1465482.1465560}.
+
+\bibitem{kingman1961single}
+J.~F.~C. Kingman.
+\newblock {The single server queue in heavy traffic}.
+\newblock {\em Mathematical Proceedings of the Cambridge Philosophical
+  Society}, 1961.
+\newblock DOI: \url{https://doi.org/10.1017/s0305004100036094}.
+
+\bibitem{sakasegawa1977approximation}
+Hirotaka Sakasegawa.
+\newblock {An approximation formula $L_q \approx \alpha \cdot \rho^\beta / (1 -
+  \rho)$}.
+\newblock {\em Annals of the Institute of Statistical Mathematics}, 1977.
+\newblock DOI: \url{https://doi.org/10.1007/bf02532775}.
+
+\bibitem{kaelbling1998planning}
+Leslie~Pack Kaelbling, Michael~L. Littman, and Anthony~R. Cassandra.
+\newblock {Planning and acting in partially observable stochastic domains}.
+\newblock {\em Artificial Intelligence}, 1998.
+\newblock DOI: \url{https://doi.org/10.1016/s0004-3702(98)00023-x}.
+
+\bibitem{liu2024lost}
+Nelson~F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua,
+  Fabio Petroni, and Percy Liang.
+\newblock {Lost in the Middle: How Language Models Use Long Contexts}.
+\newblock {\em Transactions of the Association for Computational Linguistics
+  (TACL)}, 2024.
+\newblock DOI: \url{https://doi.org/10.1162/tacl_a_00638}.
+
+\bibitem{packer2023memgpt}
+Charles Packer, Sarah Wooders, Kevin Lin, Vivian Fang, Shishir~G. Patil, Ion
+  Stoica, and Joseph~E. Gonzalez.
+\newblock {MemGPT: Towards LLMs as Operating Systems}.
+\newblock arXiv Preprint, 2023.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2310.08560}.
+
+\bibitem{jin2026chainswe}
+Qi-Rui Jin, Ling-Ching Tung, Kenan~Karina Li, Qi~Shi, Yu-Shi She, Huan-Zhong
+  Jia, Harrison Zhao, Kejing Xia, Zhen-Bang Du, Jia-Xin Pei, Zhen-Yu Zhang,
+  Zheng-Hao Qi, Yu-Yan Duan, Wen-Ke Lee, and Zi-Jian Jin.
+\newblock {ChainSWE: Benchmarking Coding Agents on Multi-Bug Software
+  Maintenance}.
+\newblock In {\em Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)}, 2026.
+\newblock DOI: \url{https://doi.org/10.18653/2026.emnlp-main.371}.
+
+\bibitem{zhong2025impossiblebench}
+Zi-Qian Zhong, Aditi Raghunathan, and Nicholas Carlini.
+\newblock {ImpossibleBench: Measuring LLMs' Propensity of Exploiting Test
+  Cases}.
+\newblock arXiv Preprint, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2510.20270}.
+
+\bibitem{huang2026more}
+Haoming Huang, Pongchai Jaisri, Shota Shimizu, Lingfeng Chen, Sota Nakashima,
+  and Gema Rodr{\'i}guez-P{\'e}rez.
+\newblock {More Code, Less Reuse: Investigation on Code Quality and Reviewer
+  Sentiment towards AI-generated Pull Requests}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793622}.
+
+\bibitem{kitchenham2007guidelines}
+Barbara Kitchenham and Stuart Charters.
+\newblock {Guidelines for performing Systematic Literature Reviews in Software
+  Engineering}.
+\newblock Technical Report EBSE-2007-01, EBSE Technical Report EBSE-2007-01,
+  Version 2.3, Keele University and University of Durham, 2007.
+\newblock URL:
+  \url{https://legacyfileshare.elsevier.com/promis_misc/525444systematicreviewsguide.pdf}.
+
+\bibitem{kitchenham2009systematic}
+Barbara~Ann Kitchenham, O.~Pearl Brereton, David Budgen, Mark Turner, John
+  Bailey, and Stephen Linkman.
+\newblock {Systematic literature reviews in software engineering -- A
+  systematic literature review}.
+\newblock {\em Information and Software Technology}, 2009.
+\newblock DOI: \url{https://doi.org/10.1016/j.infsof.2008.09.009}.
+
+\bibitem{kitchenham2015evidence}
+Barbara~Ann Kitchenham, David Budgen, and Pearl Brereton.
+\newblock {Evidence-Based Software Engineering and Systematic Reviews}.
+\newblock {\em Chapman \& Hall/CRC eBooks}, 2015.
+\newblock DOI: \url{https://doi.org/10.1201/b19467}.
+
+\bibitem{page2021prisma}
+Matthew~James Page, Joanne~E. McKenzie, Patrick~M. Bossuyt, Isabelle Boutron,
+  Tammy Hoffmann, Cynthia~D. Mulrow, Larissa Shamseer, Jennifer Tetzlaff,
+  Elie~A. Akl, Sue Brennan, Roger Chou, Julie Glanville, Jeremy Grimshaw,
+  Asbj{\o}rn Hr{\'o}bjartsson, Manoj~Mathew Lalu, Tianjing Li, Elizabeth Loder,
+  Evan Mayo-Wilson, Steve~J McDonald, Luke~A. McGuinness, Lesley~A. Stewart,
+  James Thomas, Andrea~C. Tricco, Vivian~Andrea Welch, Penny~F. Whiting, and
+  David Moher.
+\newblock {The PRISMA 2020 statement: an updated guideline for reporting
+  systematic reviews}.
+\newblock {\em BMJ}, 2021.
+\newblock DOI: \url{https://doi.org/10.1136/bmj.n71}.
+
+\bibitem{alshahwan2024automated}
+Nadia Alshahwan, Jubin Chheda, Anastasia Finegenova, Beliz Gokkaya, Mark
+  Harman, Inna Harper, Alexandru Marginean, Shubho Sengupta, and Eddy Wang.
+\newblock {Automated Unit Test Improvement using Large Language Models at
+  Meta}.
+\newblock {\em Companion Proceedings of the ACM International Conference on the
+  Foundations of Software Engineering (FSE Industry)}, 2024.
+\newblock DOI: \url{https://doi.org/10.1145/3663529.3663839}.
+
+\bibitem{bouzenia2024repairagent}
+Islem Bouzenia, Pr{\'e}mkumar D{\'e}vanbu, and Michael Pradel.
+\newblock {RepairAgent: An Autonomous, LLM-Based Agent for Program Repair}.
+\newblock In {\em ACM/IEEE International Conference on Software Engineering:
+  Companion Proceedings (ICSE Companion)}, 2024.
+\newblock Online release 2024; ICSE Companion 2025 archival proceedings. DOI:
+  \url{https://doi.org/10.1109/icse55347.2025.00157}.
+
+\bibitem{shetty2025syzygy}
+Manish Shetty, Naman Jain, Adwait Godbole, Sanjit~A. Seshia, and Koushik Sen.
+\newblock {Syzygy: Dual Code-Test C to (safe) Rust Translation using LLMs and
+  Dynamic Analysis}.
+\newblock In {\em IEEE/ACM International Workshop on Large Language Models for
+  Code (LLM4Code)}, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2412.14234}.
+
+\bibitem{kanvar2026meets}
+Vini Kanvar.
+\newblock {AI Meets Program Analysis: Lessons from a Decade of Enterprise
+  Software Modernization at IBM}.
+\newblock In {\em Proceedings of the 2nd International Workshop on AI for
+  Software Modernization}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3843775.3844546}.
+
+\bibitem{feng2026sage}
+Tingting Feng, Meifang Xue, Jian Wang, and Zhongyan Du.
+\newblock {SAGE: Source-Aligned Governance for Human--Agent Requirements
+  Clarification in Multi-agent Software Engineering}.
+\newblock In {\em Proceedings of the 2nd International Workshop on Multi-Agent
+  Systems using Generative AI for Automated Software Engineering (MAS-GAIN at
+  ASE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3843778.3844521}.
+
+\bibitem{cohen1960coefficient}
+Jacob Cohen.
+\newblock {A Coefficient of Agreement for Nominal Scales}.
+\newblock {\em Educational and Psychological Measurement}, 1960.
+\newblock DOI: \url{https://doi.org/10.1177/001316446002000104}.
+
+\bibitem{landis1977measurement}
+John~Richard Landis and Gary~G. Koch.
+\newblock {The Measurement of Observer Agreement for Categorical Data}.
+\newblock {\em Biometrics}, 1977.
+\newblock DOI: \url{https://doi.org/10.2307/2529310}.
+
+\bibitem{guo2026eet}
+Yao-Qi Guo, Ying Xiao, Jie~M. Zhang, Mark Harman, Yiling Lou, Yang Liu, and
+  Zhen-Peng Chen.
+\newblock {EET: Experience-Driven Early Termination for Cost-Efficient Software
+  Engineering Agents}.
+\newblock In {\em Findings of the Association for Computational Linguistics:
+  ACL}, 2026.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2026.findings-acl.1652}.
+
+\bibitem{dong2023selfcollaboration}
+Yihong Dong, Xue Jiang, Zhi Jin, and Ge~Li.
+\newblock {Self-collaboration Code Generation via ChatGPT}.
+\newblock {\em ACM Transactions on Software Engineering and Methodology
+  (TOSEM)}, 2023.
+\newblock Online release 2023; ACM TOSEM archival Vol. 33 published 2024. DOI:
+  \url{https://doi.org/10.1145/3672459}.
+
+\bibitem{asare2023usercentered}
+Owura Asare, M.~Nagappan, and N.~Asokan.
+\newblock {A User-Centered Security Evaluation of Copilot}.
+\newblock In {\em IEEE/ACM International Conference on Software Engineering
+  (ICSE)}, 2023.
+\newblock Online release 2023; ICSE 2024 archival proceedings. DOI:
+  \url{https://doi.org/10.1145/3597503.3639154}.
+
+\bibitem{yang2023whitefox}
+Chenyuan Yang, Yin-Lin Deng, Runyu Lu, Jiayi Yao, Jiawei Liu, Reyhaneh
+  Jabbarvand, and Ling-Ming Zhang.
+\newblock {WhiteFox: White-Box Compiler Fuzzing Empowered by Large Language
+  Models}.
+\newblock {\em Proceedings of the ACM on Programming Languages (PACMPL /
+  OOPSLA)}, 2023.
+\newblock Online release 2023; PACMPL / OOPSLA 2024 archival volume. DOI:
+  \url{https://doi.org/10.1145/3689736}.
+
+\bibitem{ma2024alibaba}
+Yingwei Ma, Qingping Yang, Rongyu Cao, Bin-Hua Li, Fei Huang, and Yong-Bin Li.
+\newblock {Alibaba LingmaAgent: Improving Automated Issue Resolution via
+  Comprehensive Repository Exploration}.
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2024.
+\newblock Online release 2024; FSE Companion 2025 archival proceedings. DOI:
+  \url{https://doi.org/10.1145/3696630.3728549}.
+
+\bibitem{yuan2024transagent}
+Zhi-Qiang Yuan, Wei-Tong Chen, Han-Lin Wang, Xin Peng, Zhen-Peng Chen, and
+  Yiling Lou.
+\newblock {TransAgent: Enhancing LLM-Based Code Translation via Fine-Grained
+  Execution Alignment}.
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2024.
+\newblock Online release 2024; PACMSE / FSE 2026 archival volume. DOI:
+  \url{https://doi.org/10.1145/3797099}.
+
+\bibitem{lin2024soen101}
+Feng Lin, Dong~Jae Kim, and Tse-Hsun Chen.
+\newblock {SOEN-101: Code Generation by Emulating Software Process Models Using
+  Large Language Model Agents}.
+\newblock In {\em IEEE/ACM International Conference on Software Engineering
+  (ICSE)}, 2024.
+\newblock Online release 2024; ICSE 2025 archival proceedings. DOI:
+  \url{https://doi.org/10.1109/icse55347.2025.00140}.
+
+\bibitem{huang2024unidebugger}
+Jen-Tse Huang, Cheryl Lee, Michael Lyu, Chunqiu~Steven Xia, Longji Yang,
+  LINGMING ZHANG, and Zhouruixing Zhu.
+\newblock {UniDebugger: Hierarchical Multi-Agent Framework for Unified Software
+  Debugging}.
+\newblock In {\em Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)}, 2024.
+\newblock Online release 2024; EMNLP 2025 archival proceedings. DOI:
+  \url{https://doi.org/10.18653/v1/2025.emnlp-main.921}.
+
+\bibitem{yang2024vert}
+Aidan Z.~H. Yang, Yoshiki Takashima, Brandon Paulsen, Josiah Dodds, and Daniel
+  Kroening.
+\newblock {VERT: Verified Equivalent Rust Transpilation with Large Language
+  Models as Few-Shot Learners}.
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, 2024.
+\newblock Online release 2024; ASE 2025 archival proceedings. DOI:
+  \url{https://doi.org/10.1109/ase63991.2025.00123}.
+
+\bibitem{jia2024task}
+Feiran Jia, Tong Wu, Xin Qin, and Anna Squicciarini.
+\newblock {The Task Shield: Enforcing Task Alignment to Defend Against Indirect
+  Prompt Injection in LLM Agents}.
+\newblock In {\em Annual Meeting of the Association for Computational
+  Linguistics (ACL)}, 2024.
+\newblock Online release 2024; ACL 2025 archival proceedings. DOI:
+  \url{https://doi.org/10.18653/v1/2025.acl-long.1435}.
+
+\bibitem{xu2025hallucination}
+Qinghua Xu, Guan-Cheng Wang, Lionel~C. Briand, and Kui Liu.
+\newblock {Hallucination to Consensus: Multi-Agent LLMs for End-to-End JUnit
+  Test Generation}.
+\newblock {\em ACM Transactions on Software Engineering and Methodology
+  (TOSEM)}, 2025.
+\newblock Online release 2025; ACM TOSEM archival volume published 2026. DOI:
+  \url{https://doi.org/10.1145/3803418}.
+
+\bibitem{guo2025swe}
+Lianghong Guo, Yan-Lin Wang, Caihua Li, Wei Tao, Pengyu Yang, Jia-Chi Chen,
+  Haoyu Song, D.~Tang, and Zi-Bin Zheng.
+\newblock {SWE Data Construction, Automatically!}
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2025.
+\newblock Online release 2025; PACMSE / FSE 2026 archival volume. DOI:
+  \url{https://doi.org/10.1145/3797119}.
+
+\bibitem{ceka2025understanding}
+Ira Ceka, Hailie Mitchell, Saurabh Pujar, Luca Buratti, Shyam Ramji, Jun-Feng
+  Yang, Gail~E. Kaiser, and Baishakhi Ray.
+\newblock {Understanding Automated Program Repair Agents through the Lens of
+  Traceability: An Empirical Study}.
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2025.
+\newblock Online release 2025; PACMSE / FSE 2026 archival volume. DOI:
+  \url{https://doi.org/10.1145/3832285}.
+
+\bibitem{mu2025experepair}
+Fangwen Mu, Jun-Jie Wang, Lin Shi, Song Wang, Shoubin Li, and Qing Wang.
+\newblock {EXPEREPAIR: Dual-Memory Enhanced LLM-based Repository-Level Program
+  Repair}.
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2025.
+\newblock Online release 2025; PACMSE / FSE 2026 archival volume. DOI:
+  \url{https://doi.org/10.1145/3808181}.
+
+\bibitem{peng2025sweqa}
+Weihan Peng, Yuling Shi, Yuhang Wang, Xinyun Zhang, Beijun Shen, and Xiaodong
+  Gu.
+\newblock {SWE-QA: Can Language Models Answer Repository-level Code Questions?}
+\newblock In {\em Findings of the Association for Computational Linguistics:
+  ACL}, 2025.
+\newblock Online release 2025; Findings of ACL 2026 archival proceedings. DOI:
+  \url{https://doi.org/10.18653/v1/2026.findings-acl.402}.
+
+\bibitem{oueslati2025refagent}
+Khouloud Oueslati, Maxime Lamothe, and Foutse Khomh.
+\newblock {RefAgent: A Multi-agent LLM-based Framework for Automatic Software
+  Refactoring}.
+\newblock In {\em IEEE/ACM International Conference on Software Engineering
+  (ICSE)}, 2025.
+\newblock Online release 2025; ICSE 2026 archival proceedings. DOI:
+  \url{https://doi.org/10.1145/3744916.3773153}.
+
+\bibitem{horikawa2025agentic}
+Kosei Horikawa, Hao Li, Yutaro Kashiwa, Bram Adams, Hajimu Iida, and Ahmed~E.
+  Hassan.
+\newblock {Agentic Refactoring: An Empirical Study of AI Coding Agents}.
+\newblock {\em ACM Transactions on Software Engineering and Methodology
+  (TOSEM)}, 2025.
+\newblock Online release 2025; ACM TOSEM archival volume published 2026. DOI:
+  \url{https://doi.org/10.1145/3859242}.
+
+\bibitem{zhang2023repocoder}
+Fengji Zhang, Bei Chen, Yue Zhang, Jacky Keung, Jin Liu, Daoguang Zan, Yi~Mao,
+  Jian-Guang Lou, and Weizhu Chen.
+\newblock {RepoCoder: Repository-Level Code Completion Through Iterative
+  Retrieval and Generation}.
+\newblock In {\em Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)}, 2023.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2023.emnlp-main.151}.
+
+\bibitem{zhang2024codeagent}
+Kechi Zhang, Jia Li, Ge~Li, Shi Xianjie, and Zhi~Juan Jin.
+\newblock {CodeAgent: Enhancing Code Generation with Tool-Integrated Agent
+  Systems for Real-World Repo-level Coding Challenges}.
+\newblock In {\em Annual Meeting of the Association for Computational
+  Linguistics (ACL)}, 2024.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2024.acl-long.737}.
+
+\bibitem{wang2025coderagbench}
+Zora~Zhiruo Wang, Akari Asai, Xinyan~Velocity Yu, Frank~F. Xu, Yiqing Xie,
+  Graham Neubig, and Daniel Fried.
+\newblock {CodeRAG-Bench: Can Retrieval Augment Code Generation?}
+\newblock In {\em Findings of the Association for Computational Linguistics:
+  NAACL}, 2025.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2025.findings-naacl.176}.
+
+\bibitem{liu2024marscode}
+Yizhou Liu, Pengfei Gao, Xinchen Wang, Jie Liu, Yexuan Shi, Zhao Zhang, and
+  Chao Peng.
+\newblock {MarsCode Agent: AI-native Automated Bug Fixing}.
+\newblock arXiv Preprint, 2024.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2409.00899}.
+
+\bibitem{suresh2025cornstack}
+Tarun Suresh, Revanth~Gangi Reddy, Yifei Xu, Zach Nussbaum, Andriy Mulyar,
+  Brandon Duderstadt, and Heng Ji.
+\newblock {CoRNStack: High-Quality Contrastive Data for Better Code Retrieval
+  and Reranking}.
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2412.01007}.
+
+\bibitem{xie2025swefixer}
+Cheng-Xing Xie, Bo-Wen Li, Chang Gao, He~Du, Wai Lam, Difan Zou, and Kai Chen.
+\newblock {SWE-Fixer: Training Open-Source LLMs for Effective and Efficient
+  GitHub Issue Resolution}.
+\newblock In {\em Findings of the Association for Computational Linguistics:
+  ACL}, 2025.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2025.findings-acl.62}.
+
+\bibitem{guo2025repoaudit}
+Jin-Yao Guo, Cheng-Peng Wang, Xiang-Zhe Xu, Zian Su, and Xiang-Yu Zhang.
+\newblock {RepoAudit: An Autonomous LLM-Agent for Repository-Level Code
+  Auditing}.
+\newblock arXiv Preprint, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2501.18160}.
+
+\bibitem{yildiz2025benchmarking}
+Alperen Yildiz, Sin~G. Teo, Yiling Lou, Yebo Feng, Chong Wang, and Dinil~Mon
+  Divakaran.
+\newblock {Benchmarking LLMs and LLM-based Agents in Practical Vulnerability
+  Detection for Code Repositories}.
+\newblock In {\em Annual Meeting of the Association for Computational
+  Linguistics (ACL)}, 2025.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2025.acl-long.1490}.
+
+\bibitem{ma2025thinking}
+Yingwei Ma, Yong-Bin Li, Yihong Dong, Xue Jiang, Yan-Hao Li, Yue Liu, Rongyu
+  Cao, Jue Chen, Fei Huang, and Bin-Hua Li.
+\newblock {Thinking Longer, Not Larger: Enhancing Software Engineering Agents
+  via Scaling Test-Time Compute}.
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, 2025.
+\newblock DOI: \url{https://doi.org/10.1109/ase63991.2025.00309}.
+
+\bibitem{ma2025swegpt}
+Yingwei Ma, Rongyu Cao, Yongchang Cao, Yue Zhang, Jue Chen, Yi-Bo Liu, Yuchen
+  Liu, Bin-Hua Li, Fei Huang, and Yong-Bin Li.
+\newblock {SWE-GPT: A Process-Centric Language Model for Automated Software
+  Improvement}.
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2025.
+\newblock DOI: \url{https://doi.org/10.1145/3728981}.
+
+\bibitem{li2026contextbench}
+Han Li, Le-Tian Zhu, Bo-Han Zhang, Rili Feng, Jia-Ming Wang, Yue Pan, Earl~T.
+  Barr, Federica Sarro, Zhao-Yang Chu, and He~Ye.
+\newblock {ContextBench: A Benchmark for Context Retrieval in Coding Agents}.
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2602.05892}.
+
+\bibitem{zhu2026swe}
+Jia-Yuan Zhu, Jun-De Wu, Min-Hao Hu, Sheng-Da Zhu, Jia-Zhen Pan, Wei Shen,
+  Yi-Jun Yang, Feng-Lin Liu, Jiang-Ye Hao, Yue-Ming Jin, Qi-Rong Ho, and Min
+  Xu.
+\newblock {SWE Context Bench: A Benchmark for Context Learning in Coding}.
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2602.08316}.
+
+\bibitem{liu2026racebench}
+Shu-Han Liu, Zhi-Yi Zhao, Xing Hu, Kui Liu, Xiao-Hu Yang, and Xin Xia.
+\newblock {RACE-Bench: A Reasoning-Augmented Benchmark for Repository-Level
+  Code Agents on Feature Addition}.
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832783.3837426}.
+
+\bibitem{jia2026compressing}
+Hao-Xiang Jia, Earl~T. Barr, and Sergey Mechtaev.
+\newblock {Compressing Code Context for LLM-based Issue Resolution}.
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832783.3834397}.
+
+\bibitem{zhang2026sweexplore}
+Shaoqiu Zhang, Yuhang Wang, Jialiang Liang, Yuling Shi, Wenhao Zeng, Maoquan
+  Wang, Shilin He, Ningyuan Xu, Siyu Ye, Kai Cai, and Xiaodong Gu.
+\newblock {SWE-Explore: Benchmarking How Coding Agents Explore Repositories}.
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2606.07297}.
+
+\bibitem{desai2026swemarathon}
+Rishi Desai, Jesse Hu, Joan Cabezas, Neel Harsola, Pratyush Shukla, Roey~Ben
+  Chaim, Adnan~El Assadi, Omkaar~Mukund Kamath, Fenil Faldu, Prannay Hebbar,
+  Jiankai Sun, Yiyuan Li, Pramod Srinivasan, Ishan Gupta, Christopher Settles,
+  Daniel Wang, Derek Chen, Pranav Raja, Albert Liu, Marek {\v{S}}uppa, Nevasini
+  Sasikumar, Luyang Kong, Erik Quintanilla, Xiangyi Li, Ivan Bercovich, and
+  Steven Dillmann.
+\newblock {SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon
+  Software Work?}
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2606.07682}.
+
+\bibitem{lin2026run}
+Zhihao Lin, Junhua Zhu, Mingyi Zhou, Xin Wang, Zhensu Sun, Renyu Yang, David
+  Lo, and Li~Erran Li.
+\newblock {To Run or Not to Run: Analyzing the Cost-Effectiveness of Code
+  Execution in LLM-Based Program Repair}.
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832113}.
+
+\bibitem{zhang2024autocoderover}
+Yuntong Zhang, Haifeng Ruan, Zhiyu Fan, and Abhik Roychoudhury.
+\newblock {AutoCodeRover: Autonomous Program Improvement}.
+\newblock In {\em ACM SIGSOFT International Symposium on Software Testing and
+  Analysis (ISSTA)}, 2024.
+\newblock DOI: \url{https://doi.org/10.1145/3650212.3680384}.
+
+\bibitem{liu2025codexgraph}
+Xiangyan Liu, Bo~Lan, Zhiyuan Hu, Yang Liu, Zhicheng Zhang, Fei Wang, Michael
+  Shieh, and Wenmeng Zhou.
+\newblock {CodexGraph: Bridging Large Language Models and Code Repositories via
+  Code Graph Databases}.
+\newblock In {\em Conference of the North American Chapter of the Association
+  for Computational Linguistics (NAACL)}, 2025.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2025.naacl-long.7}.
+
+\bibitem{ouyang2025repograph}
+Si-Ru Ouyang, Wen-Hao Yu, Kai-Xin Ma, Zi-Qiang Xiao, Zhi-Han Zhang, Mengzhao
+  Jia, Jia-Wei Han, Hong-Ming Zhang, and Dong Yu.
+\newblock {RepoGraph: Enhancing AI Software Engineering with Repository-level
+  Code Graph}.
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2410.14684}.
+
+\bibitem{tao2025code}
+Hongyuan Tao, Ying Zhang, Zhenhao Tang, Hongen Peng, Xukun Zhu, Bingchang Liu,
+  Yingguang Yang, Ziyin Zhang, Zhaogui Xu, Haipeng Zhang, Linchao Zhu, Rui
+  Wang, Hang Yu, Jianguo Li, and Peng Di.
+\newblock {Code Graph Model (CGM): A Graph-Integrated Large Language Model for
+  Repository-Level Software Engineering Tasks}.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2025.
+\newblock DOI: \url{https://doi.org/10.52202/085713-0537}.
+
+\bibitem{chen2025locagent}
+Zhaoling Chen, Robert Tang, Gangda Deng, Fang Wu, Jialong Wu, Zhiwei Jiang,
+  Viktor~K. Prasanna, Arman Cohan, and Xing-Yao Wang.
+\newblock {LocAgent: Graph-Guided LLM Agents for Code Localization}.
+\newblock In {\em Annual Meeting of the Association for Computational
+  Linguistics (ACL)}, 2025.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2025.acl-long.426}.
+
+\bibitem{chai2026reponav}
+Hongzheng Chai, Jiakun Li, Hongyue Yu, and Yuan Yuan.
+\newblock {RepoNav: From Snippet Retrieval to File-Centered Repository
+  Navigation for Code Agents}.
+\newblock In {\em Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)}, 2026.
+\newblock DOI: \url{https://doi.org/10.18653/2026.emnlp-main.1474}.
+
+\bibitem{pu2026typescript}
+Jun-Song Pu, Yi-Chen Li, and Zhuang-Bin Chen.
+\newblock {TypeScript Repository Indexing for Code Agent Retrieval}.
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832783.3834616}.
+
+\bibitem{chen2026measure}
+Feiyue Chen, Guowei Yang, Cheryl Lee, Zhanming Jie, and Yuqi Chen.
+\newblock {Measure Twice, Locate Once: Mitigating Hallucinations in LLM-based
+  Agents for Repository-Scale Fault Localization}.
+\newblock {\em ACM Transactions on Software Engineering and Methodology
+  (TOSEM)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3831589}.
+
+\bibitem{zhang2023selfedit}
+Kechi Zhang, Zhuo Li, Jia Li, Ge~Li, and Zhi Jin.
+\newblock {Self-Edit: Fault-Aware Code Editor for Code Generation}.
+\newblock In {\em Annual Meeting of the Association for Computational
+  Linguistics (ACL)}, 2023.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2023.acl-long.45}.
+
+\bibitem{madaan2023selfrefine}
+Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah
+  Wiegreffe, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Shashank
+  Gupta, Bodhisattwa~Prasad Majumder, Katherine Hermann, Sean Welleck, Amir
+  Yazdanbakhsh, and Peter Clark.
+\newblock {Self-Refine: Iterative Refinement with Self-Feedback}.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2023.
+\newblock DOI: \url{https://doi.org/10.52202/075280-2019}.
+
+\bibitem{chen2024teaching}
+Xinyun Chen, Maxwell Lin, Nathanael Sch{\"a}rli, and Denny Zhou.
+\newblock {Teaching Large Language Models to Self-Debug}.
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2024.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2304.05128}.
+
+\bibitem{pan2025training}
+Jiayi Pan, Xingyao Wang, Graham Neubig, Navdeep Jaitly, Heng Ji, Alane Suhr,
+  and Yizhe Zhang.
+\newblock {Training Software Engineering Agents and Verifiers with SWE-Gym}.
+\newblock In {\em International Conference on Machine Learning (ICML)}, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2412.21139}.
+
+\bibitem{yao2023tree}
+Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas~L. Griffiths, Yuan
+  Cao, and Karthik Narasimhan.
+\newblock {Tree of Thoughts: Deliberate Problem Solving with Large Language
+  Models}.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2023.
+\newblock DOI: \url{https://doi.org/10.52202/075280-0517}.
+
+\bibitem{zhou2024language}
+Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, and Yu-Xiong Wang.
+\newblock {Language Agent Tree Search Unifies Reasoning Acting and Planning in
+  Language Models}.
+\newblock In {\em International Conference on Machine Learning (ICML)}, 2024.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2310.04406}.
+
+\bibitem{antoniades2024swesearch}
+Antonis Antoniades, Albert {\"O}rwall, Kexun Zhang, Yuxi Xie, Anirudh Goyal,
+  and William~Yang Wang.
+\newblock {SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search
+  and Iterative Refinement}.
+\newblock arXiv Preprint, 2024.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2410.20285}.
+
+\bibitem{wu2024autogen}
+Qingyun Wu, Gagan Bansal, Jieyu Zhang, Yiran Wu, Beibin Li, Erkang Zhu,
+  Li~Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed~Hassan Awadallah,
+  Ryen~W White, Doug Burger, and Chi Wang.
+\newblock {AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent
+  Conversation}.
+\newblock In {\em Conference on Language Modeling (COLM)}, 2024.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2308.08155}.
+
+\bibitem{islam2024mapcoder}
+Md.~Ashraful Islam, Mohammed~Eunus Ali, and Md.~Rizwan Parvez.
+\newblock {MapCoder: Multi-Agent Code Generation for Competitive Problem
+  Solving}.
+\newblock In {\em Annual Meeting of the Association for Computational
+  Linguistics (ACL)}, 2024.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2024.acl-long.269}.
+
+\bibitem{tao2024magis}
+Wei Tao, Yucheng Zhou, Yan-Lin Wang, Wenqiang Zhang, Hong-Yu Zhang, and
+  Yu~Cheng.
+\newblock {MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution}.
+\newblock arXiv Preprint, 2024.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2403.17927}.
+
+\bibitem{ye2025prompt}
+Si-Xiang Ye, Zeyu Sun, Guo-Qing Wang, Li-Wei Guo, Qing-Lin Liang, Zheng Li, and
+  Yong Liu.
+\newblock {Prompt Alchemy: Automatic Prompt Refinement for Enhancing Code
+  Generation}.
+\newblock {\em IEEE Transactions on Software Engineering (TSE)}, 2025.
+\newblock DOI: \url{https://doi.org/10.1109/tse.2025.3589634}.
+
+\bibitem{cemri2025multiagent}
+Mert Cemri, Melissa~Z. Pan, Shuyi Yang, Lakshya~A. Agrawal, Bhavya Chopra,
+  Rishabh Tiwari, Kurt Keutzer, Aditya Parameswaran, Dan Klein, Kannan
+  Ramchandran, Matei Zaharia, Joseph~E. Gonzalez, and Ion Stoica.
+\newblock {Why Do Multi-Agent LLM Systems Fail?}
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2025.
+\newblock DOI: \url{https://doi.org/10.52202/085713-4082}.
+
+\bibitem{ye2025adverintentagent}
+He~Ye, Ai-Dan Z.~H. Yang, Chang Hu, Yanlin Wang, Tao Zhang, and Claire~Le
+  Goues.
+\newblock {AdverIntent-Agent: Adversarial Reasoning for Repair Based on
+  Inferred Program Intent}.
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2025.
+\newblock DOI: \url{https://doi.org/10.1145/3728939}.
+
+\bibitem{ananiadou2026hiras}
+Sophia Ananiadou, Jiaoyan Chen, Hanhua Hong, Jung-Jae Kim, Yizhi Li, Xiaoli Li,
+  and Chenghua Lin.
+\newblock {HiRAS: A Hierarchical Multi-Agent Framework for Paper-to-Code
+  Generation and Execution}.
+\newblock In {\em Findings of the Association for Computational Linguistics:
+  ACL}, 2026.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2026.findings-acl.377}.
+
+\bibitem{zhang2026sgagent}
+Quan-Jun Zhang, Chen Gao, Yu-Le Han, Ye~Shang, Chun-Rong Fang, Zhen-Yu Chen,
+  and Liang Xiao.
+\newblock {SGAgent : Suggestion-Guided LLM-Based Multi-Agent Framework for
+  Repository-Level Software Repair}.
+\newblock {\em ACM Transactions on Software Engineering and Methodology
+  (TOSEM)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3818617}.
+
+\bibitem{wu2026guessing}
+Jia-Qi Wu, Tong Wu, Man-Qing Zhang, Yun-Wei Dong, and Bo~Shen.
+\newblock {From Guessing to Seeing: Enhancing LLM-Based Program Repair via
+  Trace-Guided Multi-strategy Debate}.
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832783.3837458}.
+
+\bibitem{ibrahimzada2026recodeagent}
+Ali~Reza Ibrahimzada, Brandon Paulsen, Daniel Kroening, and Reyhaneh
+  Jabbarvand.
+\newblock {ReCodeAgent: A Multi-agent Workflow for Language-Agnostic
+  Translation and Validation of Large-Scale Repositories}.
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832783.3837486}.
+
+\bibitem{zhang2026understanding}
+Xiao-Wen Zhang, Hannah Zhang, and Shin~Hwei Tan.
+\newblock {Understanding Bugs in Modern Agentic Frameworks: A Study of
+  Symptoms, Root Causes, and Triggering Conditions}.
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832783.3834378}.
+
+\bibitem{peng2026playcoder}
+Zhi-Yuan Peng, Wei Tao, Xin Yin, Chen-Hao Ying, Yuan Luo, and Yi-Wen Guo.
+\newblock {PlayCoder: Making LLM-Generated GUI Code Playable}.
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2026.
+\newblock DOI: \url{https://doi.org/10.1145/3808097}.
+
+\bibitem{tian2026mumutestup}
+Da-Gang Tian, Jia-Kun Liu, Yun Peng, Yi-Cheng Zhang, Jian-Lei Chi, Jun Sun, and
+  Xiao-Hong Su.
+\newblock {MuMuTestUp: Mutation-based Multi-Agent Test Case Update}.
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832217}.
+
+\bibitem{chen2026tracedev}
+Ming-Yu Chen, Ya-Kun Zhang, Zi-Hao Xie, Yi-Xing Luo, Jin-Rui Xu, Cui-Yun Gao,
+  Kai-Qi Zhao, and Yun-Ming Ye.
+\newblock {TraceDev: A Traceability-Driven Multi-agent Framework for
+  Requirement-to-Code Development}.
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832171}.
+
+\bibitem{wang2026paichecker}
+Man-Yi Wang, Junjielong Xu, and Pin-Jia He.
+\newblock {PAIChecker: Uncovering and Checking PR-Issue Misalignment in
+  SWE-Bench-Like Benchmarks}.
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832783.3837557}.
+
+\bibitem{bairi2024codeplan}
+Ramakrishna Bairi, Atharv Sonwane, Aditya Kanade, D.~C. Vageesh, Arun~Shankar
+  Iyer, Suresh Parthasarathy, Sriram~K. Rajamani, B.~Ashok, and Shashank Shet.
+\newblock {CodePlan: Repository-Level Coding using LLMs and Planning}.
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2024.
+\newblock DOI: \url{https://doi.org/10.1145/3643757}.
+
+\bibitem{wang2024llmdfa}
+Chengpeng Wang, Wuqi Zhang, Zian Su, Xiangzhe Xu, Xiaoheng Xie, and Xiangyu
+  Zhang.
+\newblock {LLMDFA: Analyzing Dataflow in Code with Large Language Models}.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2024.
+\newblock DOI: \url{https://doi.org/10.52202/079017-4181}.
+
+\bibitem{pan2024lost}
+Rangeet Pan, Ali~Reza Ibrahimzada, Rahul Krishna, Divya Sankar, Lambert~Pouguem
+  Wassi, Michele Merler, Boris Sobolev, Raju Pavuluri, Saurabh Sinha, and
+  Reyhaneh Jabbarvand.
+\newblock {Lost in Translation: A Study of Bugs Introduced by Large Language
+  Models while Translating Code}.
+\newblock In {\em IEEE/ACM International Conference on Software Engineering
+  (ICSE)}, 2024.
+\newblock DOI: \url{https://doi.org/10.1145/3597503.3639226}.
+
+\bibitem{yu2024fight}
+Xiao Yu, Lei Liu, Xing Hu, Jacky~Wai Keung, Jin Liu, and Xin Xia.
+\newblock {Fight Fire With Fire: How Much Can We Trust ChatGPT on Source
+  Code-Related Tasks?}
+\newblock {\em IEEE Transactions on Software Engineering (TSE)}, 2024.
+\newblock DOI: \url{https://doi.org/10.1109/tse.2024.3492204}.
+
+\bibitem{wang2025cvebench}
+Pei-Ran Wang, Xiaogeng Liu, and Chao-Wei Xiao.
+\newblock {CVE-Bench: Benchmarking LLM-based Software Engineering Agent's
+  Ability to Repair Real-World CVE Vulnerabilities}.
+\newblock In {\em Conference of the North American Chapter of the Association
+  for Computational Linguistics (NAACL)}, 2025.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2025.naacl-long.212}.
+
+\bibitem{zan2025multiswebench}
+Daoguang Zan, Zhirong Huang, Wei Liu, Hanwu Chen, Shulin Xin, Linhao Zhang,
+  Qi~Liu, Li~Aoyan, Lu~Chen, Xiaojian Zhong, Siyao Liu, Yongsheng Xiao,
+  Liangqiang Chen, Yuyu Zhang, Jing Su, Tianyu Liu, RUI LONG, Ming Ding, and
+  liang xiang.
+\newblock {Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving}.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2025.
+\newblock DOI: \url{https://doi.org/10.52202/085713-2111}.
+
+\bibitem{li2025patchpilot}
+Hongwei Li, Yuheng Tang, Shiqi Wang, and Wenbo Guo.
+\newblock {PatchPilot: A Cost-Efficient Software Engineering Agent with Early
+  Attempts on Formal Verification}.
+\newblock In {\em International Conference on Machine Learning (ICML)}, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2502.02747}.
+
+\bibitem{fu2025security}
+Yujia Fu, Peng Liang, Amjed Tahir, Zengyang Li, Mojtaba Shahin, Jiaxin Yu, and
+  Jinfu Chen.
+\newblock {Security Weaknesses of Copilot-Generated Code in GitHub Projects: An
+  Empirical Study}.
+\newblock {\em ACM Transactions on Software Engineering and Methodology
+  (TOSEM)}, 2025.
+\newblock DOI: \url{https://doi.org/10.1145/3716848}.
+
+\bibitem{garg2026debug2fix}
+Spandan Garg and Yu-Fan Huang.
+\newblock {Debug2Fix: Can Interactive Debugging Help Coding Agents Fix More
+  Bugs?}
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832783.3834471}.
+
+\bibitem{tufano2026developers}
+Rosalia Tufano, Federica Pepe, Fiorella Zampetti, Antonio Mastropaolo, Ozren
+  Dabi{\'c}, Massimiliano~Di Penta, and Gabriele Bavota.
+\newblock {Developers and generative AI: A study of self-admitted usage in open
+  source projects}.
+\newblock {\em Empirical Software Engineering (EMSE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1007/s10664-026-10848-w}.
+
+\bibitem{ma2026llm}
+Dong-Jian Ma, Si-Lin Chen, Yu-Fei Yang, Yu-Ling Shi, Yan-Fu Yan, and Xiao-Dong
+  Gu.
+\newblock {LLM Agents Can See Code Repositories}.
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832783.3834363}.
+
+\bibitem{liu2023your}
+Jiawei Liu, Chunqiu~Steven Xia, Yuyao Wang, and Lingming Zhang.
+\newblock {Is Your Code Generated by ChatGPT Really Correct? Rigorous
+  Evaluation of Large Language Models for Code Generation}.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2023.
+\newblock DOI: \url{https://doi.org/10.52202/075280-0943}.
+
+\bibitem{mndlersasahara2024swtbench}
+Niels M{\"u}ndler-Sasahara, Mark~Niklas M{\"u}ller, Jing-Xuan He, and Martin~T.
+  Vechev.
+\newblock {SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code
+  Agents}.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2024.
+\newblock DOI: \url{https://doi.org/10.52202/079017-2601}.
+
+\bibitem{gu2024cruxeval}
+Alex Gu, Baptiste Rozi{\`e}re, Hugh Leather, Armando Solar-Lezama, Gabriel
+  Synnaeve, and Sida~I. Wang.
+\newblock {CRUXEval: A Benchmark for Code Reasoning, Understanding and
+  Execution}.
+\newblock In {\em International Conference on Machine Learning (ICML)}, 2024.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2401.03065}.
+
+\bibitem{jain2025livecodebench}
+Naman Jain, King Han, Alex Gu, Wen-Ding Li, Fanjia Yan, Tianjun Zhang, Sida
+  Wang, Armando Solar-Lezama, Koushik Sen, and Ion Stoica.
+\newblock {LiveCodeBench: Holistic and Contamination Free Evaluation of Large
+  Language Models for Code}.
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2403.07974}.
+
+\bibitem{trivedi2024appworld}
+H.~Trivedi, Tushar Khot, Mareike Hartmann, R.~Manku, Vinty Dong, Edward Li,
+  Shashank Gupta, Ashish Sabharwal, and Niranjan Balasubramanian.
+\newblock {AppWorld: A Controllable World of Apps and People for Benchmarking
+  Interactive Coding Agents}.
+\newblock In {\em Annual Meeting of the Association for Computational
+  Linguistics (ACL)}, 2024.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2024.acl-long.850}.
+
+\bibitem{yang2024swebench}
+John Yang, Carlos~E. Jimenez, Alex~L. Zhang, Kilian~Adriano Lieret, Joyce Yang,
+  Xindi Wu, O.~Press, Niklas Muennighoff, Gabriel Synnaeve, Karthik~R.
+  Narasimhan, Diyi Yang, Sida Wang, and Ofir Press.
+\newblock {SWE-bench Multimodal: Do AI Systems Generalize to Visual Software
+  Domains?}
+\newblock arXiv Preprint, 2024.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2410.03859}.
+
+\bibitem{hu2025repo2run}
+Rui-Da Hu, Chao Peng, Xinchen Wang, Junjielong Xu, and Cui-Yun Gao.
+\newblock {Repo2Run: Automated Building Executable Environment for Code
+  Repository at Scale}.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2025.
+\newblock DOI: \url{https://doi.org/10.52202/085713-1096}.
+
+\bibitem{yang2025swesmith}
+John Yang, Kilian Lieret, Carlos~E. Jimenez, Alexander Wettig, Kabir Khandpur,
+  Yanzhe Zhang, Binyuan Hui, Ofir Press, Ludwig Schmidt, and Diyi Yang.
+\newblock {SWE-smith: Scaling Data for Software Engineering Agents}.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2025.
+\newblock DOI: \url{https://doi.org/10.52202/085713-3239}.
+
+\bibitem{jain2025r2egym}
+Naman Jain, Jaskirat Singh, Manish Shetty, Liang Zheng, Koushik Sen, and Ion
+  Stoica.
+\newblock {R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling
+  Open-Weights SWE Agents}.
+\newblock arXiv Preprint, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2504.07164}.
+
+\bibitem{rashid2025swepolybench}
+Muhammad~Shihab Rashid, Christian Bock, Yuan Zhuang, Alexander Buchholz, Tim
+  Esler, Simon Valentin, Luca Franceschi, Martin Wistuba, Prabhu~Teja
+  Sivaprasad, Woo~Jung Kim, Anoop Deoras, Giovanni Zappella, and Laurent
+  Callot.
+\newblock {SWE-PolyBench: A multi-language benchmark for repository level
+  evaluation of coding agents}.
+\newblock arXiv Preprint, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2504.08703}.
+
+\bibitem{bouzenia2025understanding}
+Islem Bouzenia and Michael Pradel.
+\newblock {Understanding Software Engineering Agents: A Study of
+  Thought-Action-Result Trajectories}.
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, 2025.
+\newblock DOI: \url{https://doi.org/10.1109/ase63991.2025.00234}.
+
+\bibitem{team2025trae}
+Trae~Research Team, Pengfei Gao, Zhao Tian, Xiangxin Meng, Xinchen Wang, Ruida
+  Hu, Yuanan Xiao, Yizhou Liu, Zhao Zhang, Junjie Chen, Cuiyun Gao, Yun Lin,
+  Yingfei Xiong, Chao Peng, and Xia Liu.
+\newblock {Trae Agent: An LLM-based Agent for Software Engineering with
+  Test-time Scaling}.
+\newblock arXiv Preprint, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2507.23370}.
+
+\bibitem{li2026laboratory}
+Jia Li, Michael Lyu, and Yuxin Su.
+\newblock {From Laboratory to Real-World Applications: Benchmarking Agentic
+  Code Reasoning at the Repository Level}.
+\newblock In {\em Annual Meeting of the Association for Computational
+  Linguistics (ACL)}, 2026.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2026.acl-long.399}.
+
+\bibitem{agarwal2026ides}
+Shyam Agarwal, Hao He, and Bogdan Vasilescu.
+\newblock {AI IDEs or Autonomous Agents? Measuring the Impact of Coding Agents
+  on Software Development}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793589}.
+
+\bibitem{gao2026autopilot}
+Haoyu Gao, Peerachai Banyongrakkul, Hao Guan, Mansooreh Zahedi, and Christoph
+  Treude.
+\newblock {On Autopilot? An Empirical Study of Human--AI Teaming and Review
+  Practices in Open Source}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793573}.
+
+\bibitem{ghaleb2026fingerprinting}
+Taher~A. Ghaleb.
+\newblock {Fingerprinting AI Coding Agents on GitHub}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793582}.
+
+\bibitem{cynthia2026all}
+Shamse~Tasnim Cynthia, Joy~Krishan Das, and Banani Roy.
+\newblock {Are We All Using Agents the Same Way? An Empirical Study of Core and
+  Peripheral Developers' Use of Coding Agents}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793377}.
+
+\bibitem{ottenhof2026agents}
+Lukas Ottenhof, Daniel Penner, Abram Hindle, and Thibaud Lutellier.
+\newblock {How do Agents Refactor: An Empirical Study}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793577}.
+
+\bibitem{martnez2026whats}
+Mat{\'i}as Mart{\'i}nez and Xavier Franch.
+\newblock {What's in a Benchmark? The Case of SWE-Bench in Automated Program
+  Repair}.
+\newblock In {\em IEEE/ACM International Conference on Software Engineering
+  (ICSE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3786583.3786904}.
+
+\bibitem{zhou2026featurebench}
+Qixing Zhou, Jiacheng Zhang, Haiyang Wang, Rui Hao, Jiahe Wang, Minghao Han,
+  Yuxue Yang, Shuzhe Wu, Feiyang Pan, Lue Fan, Dandan Tu, and Zhaoxiang Zhang.
+\newblock {FeatureBench: Benchmarking Agentic Coding for Complex Feature
+  Development}.
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2602.10975}.
+
+\bibitem{gloaguen2026evaluating}
+Thibaud Gloaguen, Niels M{\"u}ndler-Sasahara, Mark~Niklas M{\"u}ller, Veselin
+  Raychev, and Martin~T. Vechev.
+\newblock {Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for
+  Coding Agents?}
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2602.11988}.
+
+\bibitem{khan2026adoption}
+Muhammad~Ahmad Khan, Hasnain Ali, Muneeb Rana, Muhammad~Saqib Ilyas, and
+  Abdul~Ali Bangash.
+\newblock {On the Adoption of AI Coding Agents in Open-source Android and iOS
+  Development}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793596}.
+
+\bibitem{kong2026compiling}
+Wei-Yu Kong, Yun Lin, Xiwen Teoh, Duc-Minh Nguyen, Ruo-Fei Ren, Jia-Xin Chang,
+  Hao-Xu Hu, and Hao Chen.
+\newblock {Compiling Large Multi-modal Requirement Documents into Runnable
+  Software Systems: From an Agentic Test-Driven Perspective}.
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832196}.
+
+\bibitem{badertdinov2026swerebench}
+Ibragim Badertdinov, Maksim Nekrashevich, Anton Shevtsov, and Alexander
+  Golubev.
+\newblock {SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale}.
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2602.23866}.
+
+\bibitem{chen2026beyondswe}
+Guo-Xin Chen, Fanzheng Meng, Jiale Zhao, Ming-Hao Li, Daixuan Cheng, Hua-Tong
+  Song, Jie Chen, Yu-Zhi Lin, Hui Chen, Xin Zhao, Rui-Hua Song, Chang Liu,
+  Cheng Chen, Kai Jia, and Ji-Rong Wen.
+\newblock {BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug
+  Fixing?}
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2603.03194}.
+
+\bibitem{li2026probe}
+Cheng-Lin Li, Yi-Sen Xu, Ze-Hao Wang, Shin~Hwei Tan, and Tse-Hsun Chen.
+\newblock {Probe to Generate: Program Variant-Guided Test Augmentation for
+  Repository-Level Repair Benchmarks}.
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832783.3837534}.
+
+\bibitem{pham2026synthetic}
+M.~Pham, H.~Phan, Nhat~Hoang Phan, Cuong~Chi Le, Tien~N. Nguyen, and N.~Bui.
+\newblock {Synthetic Repo-level Bug Dataset for Training Automated Program
+  Repair Models}.
+\newblock In {\em IEEE/ACM International Conference on Software Engineering
+  (ICSE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3744916.3764562}.
+
+\bibitem{xiang2026empowering}
+Jiahong Xiang, Xiaoyang Xu, Xiaopan Chu, Hongliang Tian, and Yuqun Zhang.
+\newblock {Empowering Autonomous Debugging Agents with Efficient Dynamic
+  Analysis}.
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2026.
+\newblock DOI: \url{https://doi.org/10.1145/3797126}.
+
+\bibitem{lam2026swechain}
+Man~Ho Lam, Chao-Zheng Wang, Han-Ge Liu, Jingyu Xiao, Haau-Sing Li, Jen-Tse
+  Huang, Terry~Yue Zhuo, and Michael~R. Lyu.
+\newblock {SWE-Chain: Benchmarking Coding Agents on Chained Release-Level
+  Package Upgrades}.
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2605.14415}.
+
+\bibitem{hasan2026what}
+Alif~Al Hasan and Sumon Biswas.
+\newblock {What Breaks When LLMs Code? Characterizing Operational Safety
+  Failures of Agentic Code Assistants}.
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832783.3834393}.
+
+\bibitem{wu2026swetogether}
+Yi-Fan Wu, Zhuo-Kai Zhao, Song-Lin Li, Ho-Hin Lee, Jia-Cheng Zhu, Shirley Wu,
+  Tianhe Yu, Serena Li, Li-Zhu Zhang, Xiang-Jun Fan, and Sheng-Zhi Li.
+\newblock {SWE-Together: Evaluating Coding Agents in Interactive User
+  Sessions}.
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2606.29957}.
+
+\bibitem{galster2026configuring}
+Matthias Galster, Seyedmoein Mohsenimofidi, Jai~Lal Lulla, Abubakar~Muhammad
+  Auwal, Christoph Treude, and Sebastian Baltes.
+\newblock {Configuring Agentic AI Coding Tools: An Exploratory Study}.
+\newblock In {\em ACM International Conference on AI-Powered Software
+  (AIware)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3805760.3814887}.
+
+\bibitem{ullah2024llms}
+Saad Ullah, Mingji Han, Saurabh Pujar, Hammond Pearce, Ayse Coskun, and
+  Gianluca Stringhini.
+\newblock {LLMs Cannot Reliably Identify and Reason About Security
+  Vulnerabilities (Yet?): A Comprehensive Evaluation, Framework, and
+  Benchmarks}.
+\newblock In {\em IEEE Symposium on Security and Privacy (S\&P)}, 2024.
+\newblock DOI: \url{https://doi.org/10.1109/sp54263.2024.00210}.
+
+\bibitem{tang2024codeagent}
+Xunzhu Tang, Kisub Kim, Yewei Song, Cedric Lothritz, Bei Li, Saad Ezzini, Haoye
+  Tian, Jacques Klein, and Tegawende~F. Bissyande.
+\newblock {CodeAgent: Autonomous Communicative Agents for Code Review}.
+\newblock In {\em Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)}, 2024.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2024.emnlp-main.632}.
+
+\bibitem{popescu2026investigating}
+Razvan~Mihai Popescu, David Gros, Andrei Botocan, Rahul Pandita, Prem Devanbu,
+  and Maliheh Izadi.
+\newblock {Investigating Autonomous Agent Contributions in the Wild: Activity
+  Patterns and Code Change over Time}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793354}.
+
+\bibitem{charoenwet2026agentic}
+Wachiraphan Charoenwet, Kla Tantithamthavorn, Patanamon Thongtanunam, Hong~Yi
+  Lin, Minwoo Jeong, and Ming Wu.
+\newblock {Agentic Code Review in the Terminal: A Trajectory-Level Analysis of
+  Behavior, Cost, and Human-Alignment}.
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832783.3834546}.
+
+\bibitem{liu2026e4rreviewer}
+Yifei Liu, Xizhi Hou, Li~Yang, Huan Liu, Chen Zhu, Fengjun Zhang, and Chun Zuo.
+\newblock {E4R-Reviewer: Effective and Explainable Automated Code Review via
+  End-to-End Reasoning-Guided Alignment}.
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832096}.
+
+\bibitem{zheng2026static}
+Dewu Zheng, Yanlin Wang, Xiwen Wang, Kefeng Duan, Hongyu Zhang, Xilin Liu,
+  Yuchi Ma, and Zibin Zheng.
+\newblock {From Static to Dynamic: Benchmarking Real-World Code Review with
+  MCR-Bench}.
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832219}.
+
+\bibitem{ciancarini2026charge}
+Paolo Ciancarini.
+\newblock {Who is in charge? Coordination and governance in agentic software
+  engineering}.
+\newblock {\em Journal of Logical and Algebraic Methods in Programming
+  (JLAMP)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1016/j.jlamp.2026.101192}.
+
+\bibitem{li2025rise}
+Hao Li, Haoxiang Zhang, and Ahmed~E. Hassan.
+\newblock {The Rise of AI Teammates in Software Engineering (SE) 3.0: How
+  Autonomous Coding Agents Are Reshaping Software Engineering}.
+\newblock arXiv Preprint, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2507.15003}.
+
+\bibitem{ogenrwot2026coding}
+Daniel Ogenrwot and John Businge.
+\newblock {How AI Coding Agents Modify Code: A Large-Scale Study of GitHub Pull
+  Requests}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793603}.
+
+\bibitem{cynthia2026bug}
+Shamse~Tasnim Cynthia, Muttakin Al, and Banani Roy.
+\newblock {Beyond Bug Fixes: An Empirical Investigation of Post-Merge Code
+  Quality Issues in Agent-Generated Pull Requests}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793615}.
+
+\bibitem{alam2026agentinvolved}
+Khairul Alam, Saikat Mondal, and Banani Roy.
+\newblock {Why Are AI Agent--Involved Pull Requests (Fix-Related) Remain
+  Unmerged? An Empirical Study}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793611}.
+
+\bibitem{chen2026commit}
+Valerie Chen, Jasmyn He, Behnjamin Williams, Jason Valentino, and Ameet
+  Talwalkar.
+\newblock {Beyond the Commit: Developer Perspectives on Productivity with AI
+  Coding Assistants}.
+\newblock In {\em IEEE/ACM International Conference on Software Engineering
+  (ICSE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3786583.3786848}.
+
+\bibitem{pinna2026comparing}
+Giovanni Pinna, Jing-Zhi Gong, David Williams, and Federica Sarro.
+\newblock {Comparing AI Coding Agents: A Task-Stratified Analysis of Pull
+  Request Acceptance}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793576}.
+
+\bibitem{nachuma2026teammates}
+Costain Nachuma and Minhaz~F. Zibran.
+\newblock {When AI Teammates Meet Code Review: Collaboration Signals Shaping
+  the Integration of Agent-Authored Pull Requests}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793561}.
+
+\bibitem{ogenrwot2026agenticflict}
+Daniel Ogenrwot and John Businge.
+\newblock {AgenticFlict: A Large-Scale Dataset of Merge Conflicts in AI Coding
+  Agent Pull Requests on GitHub}.
+\newblock In {\em ACM International Conference on AI-Powered Software
+  (AIware)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3805760.3814923}.
+
+\bibitem{khemissi2026humans}
+Islem Khemissi, Moataz Chouchen, Dong Wang, and Raula~Gaikovina Kula.
+\newblock {Humans Integrate, Agents Fix: How Agent-Authored Pull Requests Are
+  Referenced in Practice}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793595}.
+
+\bibitem{hoseinpour2026empirical}
+Alireza Hoseinpour, Sajjad~Rezvani Boroujeni, Jashhvanth~Tamilselvan Kunthavai,
+  Kyle Cusimano, and Abbas Heydarnoori.
+\newblock {An Empirical Analysis of Test Failures in AI-Generated Pull
+  Requests}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793606}.
+
+\bibitem{haque2026empirical}
+Sabrina Haque, Sarvesh Ingale, and Christoph Csallner.
+\newblock {An Empirical Study of Tests in Agentic Pull Requests}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793604}.
+
+\bibitem{khelifi2026behind}
+Syrine Khelifi, Ali Ouni, and Maha Khemaja.
+\newblock {Behind Agentic Pull Requests: An Empirical Study on Developer
+  Interventions in AI Agent-Authored Pull Requests}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793586}.
+
+\bibitem{wang2026aigenerated}
+Yi-Ru Wang and Zhou Yang.
+\newblock {Do AI-Generated Pull Requests Get Rejected More? (Yes but Why?)}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793568}.
+
+\bibitem{watanabe2026coding}
+Kanetaka Watanabe, Rikuto Tsuchida, Takahiro Monno, Bin Huang, Kazuma Yamasaki,
+  You-Mei Fan, Kazumasa Shimari, and Kenichi Matsumoto.
+\newblock {How AI Coding Agents Communicate: A Study of Pull Request
+  Characteristics and Human Review Responses}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793593}.
+
+\bibitem{fatima2026footprints}
+Syeda~Kaneez Fatima, Yousuf Abrar, Abdul~Rehman Tahir, Amelia Nawaz, Shamsa
+  Abid, and Abdul~Ali Bangash.
+\newblock {On the Footprints of Reviewer Bots Feedback on Agentic Pull Requests
+  in OSS GitHub Repositories}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793599}.
+
+\bibitem{gonzalez2026bots}
+Karla Gonzalez and Mariam~El Mezouar.
+\newblock {When Bots Get the Boot: Understanding Pull Request Rejections in the
+  Era of AI Coders}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793572}.
+
+\bibitem{peralta2026agentic}
+Sien Reeve~Ordonez Peralta, Fumika Hoshi, Hironori Washizaki, Naoyasu Ubayashi,
+  INASE KONDO, Yoshiki Higo, Hiroki Mukai, Norihiro Yoshida, Kazuki Kusama,
+  Hidetake Tanaka, and Youmei Fan.
+\newblock {Why Are Agentic Pull Requests Merged or Rejected? An Empirical
+  Study}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793575}.
+
+\bibitem{ogenrwot2026patchtrack}
+Daniel Ogenrwot and John Businge.
+\newblock {PatchTrack: A comprehensive analysis of ChatGPT's influence on pull
+  request outcomes}.
+\newblock {\em Empirical Software Engineering (EMSE)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1007/s10664-026-10869-5}.
+
+\bibitem{chung2026collaborator}
+Young~Jo Chung and Safwat Hassan.
+\newblock {Collaborator or Assistant? How AI Coding Agents Partition Work
+  across Pull Request Lifecycles}.
+\newblock In {\em ACM International Conference on AI-Powered Software
+  (AIware)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3805760.3814893}.
+
+\bibitem{gao2026evaluating}
+Zhenhan Gao, Marvin~Mu{\~n}oz Bar{\'o}n, Umm e~Habiba, Daniel Graziotin, and
+  Stefan Wagner.
+\newblock {Evaluating the Impact of Explainable AI on Trust in AI-Assisted Code
+  Review}.
+\newblock {\em Proceedings of the ACM on Software Engineering (PACMSE / FSE)},
+  2026.
+\newblock DOI: \url{https://doi.org/10.1145/3832184}.
+
+\bibitem{pearce2023examining}
+Hammond Pearce, Benjamin Tan, Baleegh Ahmad, Ramesh Karri, and Brendan
+  Dolan-Gavitt.
+\newblock {Examining Zero-Shot Vulnerability Repair with Large Language
+  Models}.
+\newblock In {\em IEEE Symposium on Security and Privacy (S\&P)}, 2023.
+\newblock DOI: \url{https://doi.org/10.1109/sp46215.2023.10179324}.
+
+\bibitem{andriushchenko2024agentdojo}
+Maksym Andriushchenko, Alexandra Souly, Mateusz Dziemian, Derek Duenas, Maxwell
+  Lin, Justin Wang, Dan Hendrycks, Andy Zou, Zico Kolter, Matt Fredrikson, Eric
+  Winsor, Jerome Wynne, Yarin Gal, and Xander Davies.
+\newblock {AgentDojo: A Dynamic Environment to Evaluate Prompt Injection
+  Attacks and Defenses for LLM Agents}.
+\newblock In {\em Advances in Neural Information Processing Systems (NeurIPS)},
+  2024.
+\newblock DOI: \url{https://doi.org/10.52202/079017-2636}.
+
+\bibitem{zhan2024injecagent}
+Qiusi Zhan, Zhixiang Liang, Zifan Ying, and Daniel~D. Kang.
+\newblock {InjecAgent: Benchmarking Indirect Prompt Injections in
+  Tool-Integrated Large Language Model Agents}.
+\newblock In {\em Findings of the Association for Computational Linguistics:
+  ACL}, 2024.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2024.findings-acl.624}.
+
+\bibitem{kapoor2024agents}
+Sayash Kapoor, Benedikt Stroebl, Zachary~S. Siegel, Nitya Nadgir, and Arvind
+  Narayanan.
+\newblock {AI Agents That Matter}.
+\newblock {\em Transactions on Machine Learning Research (TMLR)}, 2024.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2407.01502}.
+
+\bibitem{wang2025agentvigil}
+Zhun Wang, Vincent Siu, Zhe Ye, Tianneng Shi, Yuzhou Nie, Xuandong Zhao,
+  Chenguang Wang, Wenbo Guo, and Dawn~Xiaodong Song.
+\newblock {AGENTVIGIL: Automatic Black-Box Red-teaming for Indirect Prompt
+  Injection against LLM Agents}.
+\newblock In {\em Findings of the Association for Computational Linguistics:
+  EMNLP}, 2025.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2025.findings-emnlp.1258}.
+
+\bibitem{zhan2025adaptive}
+Qiusi Zhan, Richard Fang, Henil~Shalin Panchal, and Daniel~D. Kang.
+\newblock {Adaptive Attacks Break Defenses Against Indirect Prompt Injection
+  Attacks on LLM Agents}.
+\newblock In {\em Findings of the Association for Computational Linguistics:
+  NAACL}, 2025.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2025.findings-naacl.395}.
+
+\bibitem{an2025ipiguard}
+Hengyu An, Tianyu Du, Shouling Ji, Qingming Li, Tao Lin, Jinghuai Zhang, and
+  Chunyi Zhou.
+\newblock {IPIGuard: A Novel Tool Dependency Graph-Based Defense Against
+  Indirect Prompt Injection in LLM Agents}.
+\newblock In {\em Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)}, 2025.
+\newblock DOI: \url{https://doi.org/10.18653/v1/2025.emnlp-main.53}.
+
+\bibitem{zhu2025melon}
+Kai-Jie Zhu, Xianjun Yang, Jin-Dong Wang, Wen-Bo Guo, and William~Yang Wang.
+\newblock {MELON: Provable Defense Against Indirect Prompt Injection Attacks in
+  AI Agents}.
+\newblock arXiv Preprint, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2502.05174}.
+
+\bibitem{zhong2025rtbas}
+Peter~Yong Zhong, Siyuan Chen, Ruiqi Wang, McKenna McCall, Ben~L. Titzer,
+  Heather Miller, and Phillip~B. Gibbons.
+\newblock {RTBAS: Defending LLM Agents Against Prompt Injection and Privacy
+  Leakage}.
+\newblock arXiv Preprint, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2502.08966}.
+
+\bibitem{miserendino2025swelancer}
+Samuel Miserendino, Michele Wang, Tejal Patwardhan, and Johannes Heidecke.
+\newblock {SWE-Lancer: Can Frontier LLMs Earn \$1 Million from Real-World
+  Freelance Software Engineering?}
+\newblock arXiv Preprint, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2502.12115}.
+
+\bibitem{shi2025promptarmor}
+Tianneng Shi, Kaijie Zhu, Zhun Wang, Yuqi Jia, Will Cai, Weida Liang, Haonan
+  Wang, Hend Alzahrani, Joshua Lu, Kenji Kawaguchi, Basel Alomair, Xuandong
+  Zhao, William~Yang Wang, Neil Gong, Wenbo Guo, and Dawn Song.
+\newblock {PromptArmor: Simple yet Effective Prompt Injection Defenses}.
+\newblock arXiv Preprint, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2507.15219}.
+
+\bibitem{wang2025agentarmor}
+Peiran Wang, Yang Liu, Yunfei Lu, Yifeng Cai, Hongbo Chen, Qingyou Yang, Jie
+  Zhang, Jue Hong, and Ye~Wu.
+\newblock {AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to
+  Defend Against Prompt Injection}.
+\newblock arXiv Preprint, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2508.01249}.
+
+\bibitem{wen2025hammer}
+Yuxin Wen, Arman Zharmagambetov, Ivan Evtimov, Narine Kokhlikyan, Tom
+  Goldstein, Kamalika Chaudhuri, and Chuan Guo.
+\newblock {RL Is a Hammer and LLMs Are Nails: A Simple Reinforcement Learning
+  Recipe for Strong Prompt Injection}.
+\newblock arXiv Preprint, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2510.04885}.
+
+\bibitem{zhang2025mcp}
+Dong-Sen Zhang, Ze-Kun Li, Xu~Luo, Xuan-Nan Liu, Pei-Pei Li, and Wen-Jun Xu.
+\newblock {MCP Security Bench (MSB): Benchmarking Attacks Against Model Context
+  Protocol in LLM Agents}.
+\newblock arXiv Preprint, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2510.15994}.
+
+\bibitem{wei2025toward}
+Yu-Xiang Wei, Zhiqing Sun, Emily McMilin, Jonas Gehring, David Zhang, Gabriel
+  Synnaeve, Daniel Fried, Ling-Ming Zhang, and Sida Wang.
+\newblock {Toward Training Superintelligent Software Agents through Self-Play
+  SWE-RL}.
+\newblock arXiv Preprint, 2025.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2512.18552}.
+
+\bibitem{chang2026overcoming}
+Hong-Yan Chang, Ergute Bao, Xin-Jian Luo, and Ting Yu.
+\newblock {Overcoming the Retrieval Barrier: Indirect Prompt Injection in the
+  Wild for LLM Systems}.
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2601.07072}.
+
+\bibitem{ghammam2026builds}
+Anwar Ghammam and Mohamed Almukhtar.
+\newblock {AI builds, We Analyze: An Empirical Study of AI-Generated Build Code
+  Quality}.
+\newblock In {\em IEEE/ACM International Conference on Mining Software
+  Repositories (MSR)}, 2026.
+\newblock DOI: \url{https://doi.org/10.1145/3793302.3793563}.
+
+\bibitem{wang2026landscape}
+Pei Wang, Xin-Feng Li, Chong Xiang, Jing-Huai Zhang, Ying Li, Li-Xia Zhang,
+  Xiao-Feng Wang, and Yuan Tian.
+\newblock {The Landscape of Prompt Injection Threats in LLM Agents: From
+  Taxonomy to Analysis}.
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2602.10453}.
+
+\bibitem{schmotz2026skillinject}
+David Schmotz, Luca Beurer-Kellner, Sahar Abdelnabi, and Maksym Andriushchenko.
+\newblock {Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks}.
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2602.20156}.
+
+\bibitem{he2026attriguard}
+Yu~He, Haozhe Zhu, Yiming Li, Shuo Shao, Hongwei Yao, Zhihao Liu, and Zhan Qin.
+\newblock {AttriGuard: Defeating Indirect Prompt Injection in LLM Agents via
+  Causal Attribution of Tool Invocations}.
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2603.10749}.
+
+\bibitem{dziemian2026vulnerable}
+Mateusz Dziemian, Maxwell Lin, Xiaohan Fu, Micha l~Nowak, Nick Winter,
+  Eliot~Krzysztof Jones, Andy Zou, Lama Ahmad, Kamalika Chaudhuri, Sahana
+  Chennabasappa, Xander Davies, Lauren Deason, Benjamin Edelman, Tanner Emek,
+  Ivan Evtimov, Jim Gust, Maia Hamin, Kat He, Klaudia Krawiecka, Riccardo
+  Patana, Neil Perry, Troy Peterson, Xiangyu Qi, Javier Rando, Zifan Wang,
+  Zihan Wang, Spencer Whitman, Eric Winsor, Arman~Serikuly Zharmagambetov, Matt
+  Fredrikson, and J.~Zico Kolter.
+\newblock {How Vulnerable Are AI Agents to Indirect Prompt Injections? Insights
+  from a Large-Scale Public Competition}.
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2603.15714}.
+
+\bibitem{zhao2026clawguard}
+Wei Zhao, Zhe Li, Pei-Xin Zhang, and Jun Sun.
+\newblock {ClawGuard: A Runtime Security Framework for Tool-Augmented LLM
+  Agents Against Indirect Prompt Injection}.
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2604.11790}.
+
+\bibitem{weng2026argus}
+Shi-Hao Weng, Yang Feng, Jinrui Zhang, Xiao-Fei Xie, Jiongchi Yu, and Jia Liu.
+\newblock {ARGUS: Defending LLM Agents Against Context-Aware Prompt Injection}.
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2605.03378}.
+
+\bibitem{qu2026overeager}
+Yubin Qu, Ying Zhang, Yanjun Zhang, Gelei Deng, Yuekang Li, Leo~Yu Zhang, and
+  Yi~Liu.
+\newblock {Overeager Coding Agents: Measuring Out-of-Scope Actions on Benign
+  Tasks}.
+\newblock arXiv Preprint, 2026.
+\newblock DOI: \url{https://doi.org/10.48550/arXiv.2605.18583}.
+
+\bibitem{greshake2023not}
+Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten
+  Holz, and Mario Fritz.
+\newblock {Not What You've Signed Up For: Compromising Real-World
+  LLM-Integrated Applications with Indirect Prompt Injection}.
+\newblock In {\em ACM Workshop on Artificial Intelligence and Security
+  (AISec)}, 2023.
+\newblock DOI: \url{https://doi.org/10.1145/3605764.3623985}.
+
+\end{thebibliography}

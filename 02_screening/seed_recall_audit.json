@@ -1,0 +1,132 @@
+{
+  "seed_total": 25,
+  "seed_recalled": 25,
+  "recall_rate": 1.0,
+  "details": [
+    {
+      "name": "ReAct",
+      "id": "2210.03629",
+      "recalled": true
+    },
+    {
+      "name": "Reflexion",
+      "id": "2303.11366",
+      "recalled": true
+    },
+    {
+      "name": "Self-Refine",
+      "id": "2303.17651",
+      "recalled": true
+    },
+    {
+      "name": "Self-Debugging",
+      "id": "2304.05128",
+      "recalled": true
+    },
+    {
+      "name": "Tree of Thoughts",
+      "id": "2305.10601",
+      "recalled": true
+    },
+    {
+      "name": "Toolformer",
+      "id": "2302.04761",
+      "recalled": true
+    },
+    {
+      "name": "EvalPlus",
+      "id": "2305.01210",
+      "recalled": true
+    },
+    {
+      "name": "CodaMosa",
+      "id": "10.1109/icse48619.2023.00085",
+      "recalled": true
+    },
+    {
+      "name": "Self-Edit",
+      "id": "10.18653/v1/2023.acl-long.45",
+      "recalled": true
+    },
+    {
+      "name": "Pearce S&P",
+      "id": "10.1109/sp46215.2023.10179324",
+      "recalled": true
+    },
+    {
+      "name": "SWE-bench",
+      "id": "2310.06770",
+      "recalled": true
+    },
+    {
+      "name": "SWE-agent",
+      "id": "2405.15793",
+      "recalled": true
+    },
+    {
+      "name": "Agentless",
+      "id": "2407.01489",
+      "recalled": true
+    },
+    {
+      "name": "AutoCodeRover",
+      "id": "2404.05427",
+      "recalled": true
+    },
+    {
+      "name": "MetaGPT",
+      "id": "2308.00352",
+      "recalled": true
+    },
+    {
+      "name": "ChatDev",
+      "id": "2307.07924",
+      "recalled": true
+    },
+    {
+      "name": "AutoGen",
+      "id": "2308.08155",
+      "recalled": true
+    },
+    {
+      "name": "OpenHands",
+      "id": "2407.16741",
+      "recalled": true
+    },
+    {
+      "name": "RepoGraph",
+      "id": "2410.14684",
+      "recalled": true
+    },
+    {
+      "name": "RepoCoder",
+      "id": "2303.12570",
+      "recalled": true
+    },
+    {
+      "name": "CodePlan",
+      "id": "2309.12499",
+      "recalled": true
+    },
+    {
+      "name": "LLMDFA",
+      "id": "2402.10754",
+      "recalled": true
+    },
+    {
+      "name": "AgentDojo",
+      "id": "2406.13352",
+      "recalled": true
+    },
+    {
+      "name": "PatchPilot",
+      "id": "2502.02747",
+      "recalled": true
+    },
+    {
+      "name": "LocAgent",
+      "id": "2503.09089",
+      "recalled": true
+    }
+  ]
+}
